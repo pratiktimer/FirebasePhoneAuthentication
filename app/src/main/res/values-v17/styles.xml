@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FirebaseUI.Button">
+        <item name="android:background">@drawable/sign_up_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">5dp</item>
+
+        <item name="android:textColor">#FFD700</item>
+
+    </style>
+</resources>

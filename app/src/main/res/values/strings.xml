@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fabquiz</string>
+    <string name="the_following_perm_required">The Following Permission are Required :</string>
+    <string name="Next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="camera">Camera Permission is needed to upload your image</string>
+    <string name="camera_disabled">Camera Permission is Disabled Go To Settings And Enable Camera</string>
+</resources>
